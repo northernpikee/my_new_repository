@@ -5,7 +5,7 @@ autor: Monika
 date: 09.04.2025   
 another basic information:  Greenland shark can live more than 250 years
 
-#Git summary
+# Git summary
 
 ## git clone <link to repository> 
 - cloning the repository from git to the local  folder
