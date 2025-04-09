@@ -23,9 +23,12 @@ another basic information:  Greenland shark can live more than 250 years
 - creating new branch
 
 ## git checkout
-- navigating existing branches
+- navigating existing **branches**
 
 ## git merge
 - integrating changes from divergent branches 
 
+##  basic workflow
+
+- add -> commit -> push 
 
