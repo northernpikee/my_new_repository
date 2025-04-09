@@ -30,5 +30,6 @@
 
 ##  basic workflow
 
-- add -> commit -> push 
+> [!NOTE]
+> add -> commit -> push 
 
